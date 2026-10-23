@@ -2,7 +2,7 @@
 Contributors: nnikolov
 Tags: captcha, login, simple, spam, security, antispam
 Requires at least: 3.5
-Tested up to: 6.9
+Tested up to: 7.1
 Requires PHP: 5.2
 Stable tag: 1.3.6
 License: GPLv2 or later
